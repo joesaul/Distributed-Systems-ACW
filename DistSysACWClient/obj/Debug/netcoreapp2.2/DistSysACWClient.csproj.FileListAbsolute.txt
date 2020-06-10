@@ -1,0 +1,24 @@
+C:\Users\Joe\Desktop\Distributed Systems ACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.deps.json
+C:\Users\Joe\Desktop\Distributed Systems ACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.runtimeconfig.json
+C:\Users\Joe\Desktop\Distributed Systems ACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\Distributed Systems ACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.dll
+C:\Users\Joe\Desktop\Distributed Systems ACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.pdb
+C:\Users\Joe\Desktop\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.AssemblyInfo.cs
+C:\Users\Joe\Desktop\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.dll
+C:\Users\Joe\Desktop\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.pdb
+C:\Users\Joe\Desktop\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.genruntimeconfig.cache
+C:\Users\Joe\Desktop\Distributed Systems Coursework\Distributed Systems ACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.deps.json
+C:\Users\Joe\Desktop\Distributed Systems Coursework\Distributed Systems ACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.runtimeconfig.json
+C:\Users\Joe\Desktop\Distributed Systems Coursework\Distributed Systems ACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\Distributed Systems Coursework\Distributed Systems ACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.dll
+C:\Users\Joe\Desktop\Distributed Systems Coursework\Distributed Systems ACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.pdb
+C:\Users\Joe\Desktop\Distributed Systems Coursework\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\Distributed Systems Coursework\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\Distributed Systems Coursework\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.AssemblyInfo.cs
+C:\Users\Joe\Desktop\Distributed Systems Coursework\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\Distributed Systems Coursework\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.dll
+C:\Users\Joe\Desktop\Distributed Systems Coursework\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.pdb
+C:\Users\Joe\Desktop\Distributed Systems Coursework\Distributed Systems ACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.genruntimeconfig.cache
